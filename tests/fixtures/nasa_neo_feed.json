@@ -1,0 +1,23 @@
+{
+    "element_count": 1,
+    "near_earth_objects": {
+        "2030-01-15": [
+            {
+                "id": "54321",
+                "name": "Example Asteroid",
+                "is_potentially_hazardous_asteroid": false,
+                "close_approach_data": [
+                    {
+                        "close_approach_date": "2030-01-15",
+                        "relative_velocity": {
+                            "kilometers_per_hour": "42000.0"  
+                        },
+                        "miss_distance": {
+                            "kilometers": "750000.0"
+                        }
+                    }
+                ]
+            }
+        ]
+    }
+}
